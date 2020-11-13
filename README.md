@@ -27,7 +27,6 @@ https://travel-buddy3.herokuapp.com/
   - [Deployed Site](#deployed-site)
   - [Description](#description)
   - [Usage](#usage)
-  - [Directory Structure](#directory-structure)
   - [Questions](#questions)
  
  ---
