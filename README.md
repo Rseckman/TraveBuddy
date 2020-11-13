@@ -32,7 +32,6 @@ https://travel-buddy3.herokuapp.com/
  
  ---
 
-<img src = "readMeImgs/laptop-house-solid.svg" width="40">
 
 
 ## Usage
@@ -49,11 +48,9 @@ To run this application:
 5. Upon future development be able to update the budget and itinerary.
 ---
 
-<img src = "readMeImgs/laptop-code-solid.svg" width="40">
 
 ---
 
-<img src = "readMeImgs/question-circle-regular.svg" width="40">
 
 ## Questions?
 
@@ -63,4 +60,4 @@ To run this application:
 ---
   <br>
 
-  [Icons provided by https://fontawesome.com/]
+
