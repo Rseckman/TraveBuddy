@@ -4,7 +4,7 @@
 ## Deployed Site:
 https://travel-buddy3.herokuapp.com/
 
-![IMAGE](readMeImgs/img.png)
+![IMAGE](/travelBuddy.png)
 
 ---
 
